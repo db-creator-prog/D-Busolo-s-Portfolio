@@ -174,7 +174,7 @@ Innovative Data Science, MEAL leader, AI Product Manager, and Visual Communicato
 - **Full Name:** Douglas Busolo
 - **Location:** Nairobi County, Kenya
 - **Primary Email:** `fischergrey25@gmail.com`
-- **Direct Telephone:** `+254 768 085 222`
+- **Direct Telephone:** `+254 7*** **** ***`
 - **Professional Affiliations:** 
   * Member, International Association of Data Scientists (IADS)
   * Member, African Evaluation Association (AfrEA)
