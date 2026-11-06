@@ -175,6 +175,10 @@ Innovative Data Science, MEAL leader, AI Product Manager, and Visual Communicato
 - **Location:** Nairobi County, Kenya
 - **Primary Email:** `fischergrey25@gmail.com`
 - **Direct Telephone:** `+254 7*** **** ***`
+- **LinkedIn**: `https://www.linkedin.com/in/douglas-busolo-6209b983/`
+- **Hackersrank**: `https://www.hackerrank.com/profile/fischergrey25`
+- **Github**: `https://github.com/db-creator-prog`
+
 - **Professional Affiliations:** 
   * Member, International Association of Data Scientists (IADS)
   * Member, African Evaluation Association (AfrEA)
