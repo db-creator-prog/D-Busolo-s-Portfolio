@@ -6,7 +6,7 @@
 ## Executive Introduction & Multi-Disciplinary Synthesis
 This portfolio represents the complete professional scope of **Douglas Busolo**, blending rigorous quantitative modeling, large-scale data systems architecture, international development Monitoring, Evaluation, Accountability, and Learning (MEAL), frontier GenAI/LLM evaluation, and advanced visual arts execution. 
 
-Spanning over 14 years of multi-sectoral leadership across humanitarian, development, and technological domains, this dossier bridges analytical precision with creative visual storytelling. Whether developing predictive machine learning models in Python, executing econometric impact evaluations, leading multi-disciplinary scientific pods, or designing character concepts, sequential art, 3D animations, and digital illustrations, this portfolio demonstrates end-to-end competency across technical and creative landscapes.
+Spanning over 16 years of multi-sectoral leadership across humanitarian, development, and technological domains, this dossier bridges analytical precision with creative visual storytelling. Whether developing predictive machine learning models in Python, executing econometric impact evaluations, leading multi-disciplinary scientific pods, or designing character concepts, sequential art, 3D animations, and digital illustrations, this portfolio demonstrates end-to-end competency across technical and creative landscapes.
 
 ---
 
@@ -15,7 +15,7 @@ Spanning over 14 years of multi-sectoral leadership across humanitarian, develop
 | Domain Area | Key Capabilities & Toolchains |
 | :--- | :--- |
 | **Data Science & AI** | Python, R, TensorFlow, PyTorch, Predictive Modeling, Computational Genomics, LLM Red-Teaming, Agentic Coding Annotation, & Safety Evaluation. |
-| **MEAL & Systems Leadership** | 14+ Years Leadership, Impact Evaluations, Quantitative/Qualitative Research, Pipeline Automation, & Power BI Dashboards. |
+| **MEAL & Systems Leadership** | 16+ Years Leadership, Impact Evaluations, Quantitative/Qualitative Research, Pipeline Automation, & Power BI Dashboards. |
 | **Visual Arts & Design** | Digital Illustration, 3D Modeling & Animation, Sequential Cartooning, Character Design, Figma, Adobe Creative Suite, & Multimodal Dataset Creation. |
 
 ---
@@ -34,7 +34,7 @@ Spanning over 14 years of multi-sectoral leadership across humanitarian, develop
 ## 1. Core Professional Profile & Academic Pedigree
 
 ### Professional Summary
-Innovative Data Science, MEAL leader, AI Product Manager, and Visual Communicator with 14+ years of experience driving evidence-based decision-making across humanitarian, development, and technology sectors. Currently completing a Ph.D. in Data Science & Artificial Intelligence at the Massachusetts Institute of Technology (MIT) with research spanning machine learning, healthcare informatics, and development economics. Uniquely combines rigorous analytical expertise with advanced proficiency in digital illustration, sketching, cartooning, 3D modeling, and graphic layout design. Adept at translating complex abstract narratives, data structures, and user requirements into engaging, high-impact visual formats, storyboards, and UI/UX design components. Proven ability to merge technical precision with creative storytelling to elevate multi-sectoral program outputs and digital media portfolios.
+Innovative Data Science, MEAL leader, AI Product Manager, and Visual Communicator with 16+ years of experience driving evidence-based decision-making across humanitarian, development, and technology sectors. Currently completing a Ph.D. in Data Science & Artificial Intelligence at the Massachusetts Institute of Technology (MIT) with research spanning machine learning, healthcare informatics, and development economics. Uniquely combines rigorous analytical expertise with advanced proficiency in digital illustration, sketching, cartooning, 3D modeling, and graphic layout design. Adept at translating complex abstract narratives, data structures, and user requirements into engaging, high-impact visual formats, storyboards, and UI/UX design components. Proven ability to merge technical precision with creative storytelling to elevate multi-sectoral program outputs and digital media portfolios.
 
 ### Academic Background
 - **Massachusetts Institute of Technology (MIT)**
